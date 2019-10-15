@@ -2,7 +2,7 @@
 
 How to get sns topics sent to slack. You can reuse this to get any notifications from any other service you would like to receive notifications for. Cloudwatch for example.
 
-![slackifications Diagram](images/Slackification Diagram.png)
+![slackifications Diagram](images/slackification-diagram.png)
 
 ## prereqs
 
